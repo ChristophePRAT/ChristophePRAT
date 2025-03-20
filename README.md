@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Christophe Prat, a french 20-year-old developper studying Maths/Physics/CS at [Fénelon Sainte-Marie](https://www.fenelonsaintemarie.org/)!
 
 <!--
 **ChristophePRAT/ChristophePRAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
