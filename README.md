@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Christophe Prat, a french 20-year-old developper studying Maths/Physics/CS at [Fénelon Sainte-Marie](https://www.fenelonsaintemarie.org/)!
+I'm Christophe Prat, a french 20-year-old developer studying Maths/Physics/CS at [Fénelon Sainte-Marie](https://www.fenelonsaintemarie.org/)!
 You can find me on [LinkedIn](https://www.linkedin.com/in/christophe-prat-b9a9a41ba/) or on [StackOverflow](https://stackoverflow.com/users/7099463/christophe-prat)
 
 Below are some projects I have built, I hope you enjoy them: 
